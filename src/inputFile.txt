@@ -1,0 +1,4 @@
+pencil,basic,5,120
+gold,luxury,2,4000000
+bread,basic,2,500
+oatmeal,standard,1,1000
